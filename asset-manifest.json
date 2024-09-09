@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.1d3f57ad.css",
+    "main.js": "/static/js/main.9f7413a6.js",
+    "static/media/segoe-ui-black.ttf": "/static/media/segoe-ui-black.c5d87c65438ea156ebc9.ttf",
+    "static/media/logo.png": "/static/media/logo.f83f99fbf0d2d676cdee.png",
+    "static/media/war.png": "/static/media/war.5330a7828fdeefd87144.png",
+    "index.html": "/index.html",
+    "main.1d3f57ad.css.map": "/static/css/main.1d3f57ad.css.map",
+    "main.9f7413a6.js.map": "/static/js/main.9f7413a6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1d3f57ad.css",
+    "static/js/main.9f7413a6.js"
+  ]
+}
